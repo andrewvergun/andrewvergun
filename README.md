@@ -8,7 +8,7 @@
 🛸 Expert in Mathematics and Physics <br/>
 🎢 My interesting lifestyle fuels creative projects
 
-### Connect with me!
+### Connect with me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
 
 ### Tech Stack:
@@ -45,17 +45,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
-<br/>
 
 ### My Github Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvergun&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewvergun&show_icons=true&theme=shadow_green)](https://github.com/andrewvergun/github-readme-stats) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewvergun&theme=shadow_green&hide_border=false)<br/>
-<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrewvergun&theme=shadow_green&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=andrewvergun&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
