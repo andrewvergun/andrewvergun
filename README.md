@@ -1,16 +1,14 @@
-## Hi there 👋
+### Dear recruiter, welcome to my [Portfolio Website](https://andrewvergun.github.io/portfolio-website/portfolio-website/)!
 
-<!--
-**andrewvergun/andrewvergun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Andrew! 👋
 
-Here are some ideas to get you started:
+🚀 Software Engineer crafting Web and Mobile applications <br/>
+👨🏻‍🎓 Studying Applied Computer Science at Wroclaw University of Technology, Poland <br/>
+🦜 Fluent in English, Polish, Ukrainian, Russian, and I'm currently learning German! <br/>
+🛸 Expert in Mathematics and Physics <br/>
+🎢 My interesting lifestyle fuels creative projects <br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewvergun&show_icons=true&theme=shadow_green)](https://github.com/andrewvergun/github-readme-stats)
+
+
