@@ -11,9 +11,10 @@
 ### Connect with me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
 
-### Tech Stack:
+## Tech Stack:
 
 ### FullStack:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="width: 45px; height: 45px;" />
@@ -27,58 +28,66 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.JS" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="Dot-Net" style="width: 45px; height: 45px;" />
+</div>
 
 ### Mobile:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" style="width: 45px; height: 45px;" />
+</div>
 
 ### Cloud Services:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" style="width: 45px; height: 45px;" />
+</div>
 
 ### Version Control Manager: 
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" style="width: 45px; height: 45px;" />
+</div>
 
 ### DataBases:
  - Relational:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle SQL Server" style="width: 45px; height: 45px;"/>
+</div>
 
  - Non-Relational:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 45px; height: 45px;" />
+ </div>
 
 ### Other:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 45px; height: 45px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="Scala" style="width: 45px; height: 45px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" style="width: 45px; height: 45px;" />
+</div>
 
 ### Internet of Things:
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
+</div>
 
 ### Data Analysis:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" style="width: 45px; height: 45px;" />
+<div style="display: flex; flex-direction: row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" style="width: 45px; height: 45px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 45px; height: 45px;" />
+</div>
 
-
-
-
-
-
-
-
-
-
-
+##
 
 ### My Github Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvergun&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
