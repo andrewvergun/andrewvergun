@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
 
 ### My Github Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvergun&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewvergun&show_icons=true&theme=shadow_green)](https://github.com/andrewvergun/github-readme-stats) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewvergun&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewvergun&show_icons=true&theme=transparent)](https://github.com/andrewvergun/github-readme-stats) <br/>
 
 [![](https://visitcount.itsvg.in/api?id=andrewvergun&icon=0&color=1)](https://visitcount.itsvg.in)
