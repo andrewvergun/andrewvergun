@@ -3,7 +3,7 @@
 ### Hi, I'm Andrew! 👋
 
 🚀 Software Engineer crafting Web and Mobile applications <br/>
-👨🏻‍🎓 Studying Applied Computer Science at Wroclaw University of Technology, Poland <br/>
+👨🏻‍🎓 Studying Applied Computer Science at Wroclaw University of Science and Technology, Poland <br/>
 🦜 Fluent in English, Polish, Ukrainian, Russian, and I'm currently learning German! <br/>
 🛸 Expert in Mathematics and Physics <br/>
 🎢 My interesting lifestyle fuels creative projects
