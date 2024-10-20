@@ -9,7 +9,7 @@
 🎢 My interesting lifestyle fuels creative projects
 
 ### Connect with me:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nest.JS" style="width: 45px; height: 45px;" />](https://www.linkedin.com/in/andrewvergun/)
 
 ## Tech Stack:
 
